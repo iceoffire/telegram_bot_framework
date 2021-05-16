@@ -46,13 +46,13 @@ telegram_bot_framework/
 
 In [game_controller.py](https://github.com/iceoffire/telegram_bot_framework/blob/master/Controllers/game_controller.py), we have 4 commands, we have:
 * roll_dice
-    * Return a six-side dice, or N sides if user send it in the context as a argument.
+    * Return a six-sided dice, or N sides if the user sends it in the context as an argument.
 * random_pick
-    * Return a random option in the list of objects that user send through arguments (e.g. /random_pick option 1, option 2, option 3)
+    * Return a random option in the list of objects that the user sent through arguments (e.g. /random_pick option 1, option 2, option 3)
 * should_i
-    * Return Yes/No to you question.
+    * Return Yes/No to your question.
 * russian_roulette
-    * Return the result of a match of russian roulette.
+    * Return the result of a match of Russian roulette.
 
 
 ### Current Development State
